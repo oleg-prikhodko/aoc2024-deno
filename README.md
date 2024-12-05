@@ -1,7 +1,8 @@
 ### About
 
-Solutions for [Advent of Code 2024](https://adventofcode.com/2024/) written with TypeScript and Deno.
-Test inputs along with my specific inputs can be found in `input` directory.
+Solutions for [Advent of Code 2024](https://adventofcode.com/2024/) written with
+TypeScript and Deno. Test inputs along with my specific inputs can be found in
+`input` directory.
 
 ### How to test
 
