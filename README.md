@@ -1,3 +1,5 @@
+[![Deno](https://github.com/oleg-prikhodko/aoc2024-deno/actions/workflows/deno.yml/badge.svg)](https://github.com/oleg-prikhodko/aoc2024-deno/actions/workflows/deno.yml)
+
 ### About
 
 Solutions for [Advent of Code 2024](https://adventofcode.com/2024/) written with
