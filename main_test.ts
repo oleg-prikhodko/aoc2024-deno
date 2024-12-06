@@ -4,6 +4,7 @@ import { day2 } from "./solutions/day2.ts";
 import { day3 } from "./solutions/day3.ts";
 import { day4 } from "./solutions/day4.ts";
 import { day5 } from "./solutions/day5.ts";
+import { day6 } from "./solutions/day6.ts";
 
 Deno.test("day 1", () => {
   assertEquals(day1("1_test.txt"), [11, 31]);
@@ -23,4 +24,8 @@ Deno.test("day 4", () => {
 
 Deno.test("day 5", () => {
   assertEquals(day5("5_test.txt"), [143, 123]);
+});
+
+Deno.test("day 6", () => {
+  assertEquals(day6("6_test.txt"), 41);
 });
