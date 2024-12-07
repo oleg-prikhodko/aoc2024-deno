@@ -4,6 +4,7 @@ import { day3 } from "./solutions/day3.ts";
 import { day4 } from "./solutions/day4.ts";
 import { day5 } from "./solutions/day5.ts";
 import { day6 } from "./solutions/day6.ts";
+import { day7 } from "./solutions/day7.ts";
 
 function run(fn: () => unknown, idx: number) {
   console.log(`Day ${idx}:`, fn());
@@ -17,6 +18,7 @@ if (import.meta.main) {
     day4,
     day5,
     day6,
+    day7,
   ];
 
   for (const [idx, fn] of solutions.entries()) {
